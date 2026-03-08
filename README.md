@@ -17,9 +17,12 @@
 
 ### About Me
 
-- I’m currently working on **web and application development**
-- 🎓 **Education:** B.S. in Digital Industry Integration (Software Engineering/Developer)
-  - *College of Arts, Media and Technology (CAMT), Chiang Mai University (CMU)*
+<div align="center"> <b>Education:</b> B.S. in Digital Industry Integration <small>(Software Developer)</small>
+   College of Arts, Media and Technology (CAMT), Chiang Mai University (CMU)
+</div>
+
+- I’m currently working on **Web and Application Development**
+- I have strong skills in **Quality Assurance (QA)**, creating comprehensive **Test Cases Scenarios**, and implementing **Automated Testing**.
 - I’m currently learning and exploring new technologies.
 - Ask me about **JavaScript, TypeScript, Vue.js, Node.js and testing tools...**
 
