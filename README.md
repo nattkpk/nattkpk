@@ -34,10 +34,10 @@
   
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" /></code>
-    <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" /></code>
     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" title="tailwindcss" /></code>
+     <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" /></code>
   <br><br>
@@ -51,7 +51,7 @@
 
 </div>
 
----
+<!-- ---
 
 ### GitHub Stats
 
@@ -62,7 +62,7 @@
   <a href="https://github.com/nattkpk">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattkpk&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=c9d1d9&title_color=58a6ff" height="150" alt="Top Languages" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -79,5 +79,5 @@
 
 <br>
 <div align="center">
-  <i>Let's build something amazing together! 🚀</i>
+  <i>Let's build something unbelievable together! 🚀</i>
 </div>
