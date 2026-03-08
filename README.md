@@ -18,7 +18,8 @@
 ### About Me
 
 - I’m currently working on **web and application development**
-- I have strong skills in **Quality Assurance (QA)**, creating comprehensive **test cases**, and implementing **Automated Testing**.
+- 🎓 **Education:** B.S. in Digital Industry Integration (Software Engineering/Developer)
+  - *College of Arts, Media and Technology (CAMT), Chiang Mai University (CMU)*
 - I’m currently learning and exploring new technologies.
 - Ask me about **JavaScript, TypeScript, Vue.js, Node.js and testing tools...**
 
@@ -30,8 +31,10 @@
   
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" /></code>
+    <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" /></code>
+    <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" title="tailwindcss" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" /></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" /></code>
   <br><br>
